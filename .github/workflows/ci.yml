@@ -1,5 +1,4 @@
 name: ASDD CI Pipeline
-
 on:
   push:
   pull_request:
